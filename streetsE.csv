@@ -17,12 +17,9 @@ OID_	osm_id	code	fclass	name	ref	oneway	maxspeed	layer	bridge	tunnel	ZuschlagPr	
 16	5188590	5121	unclassified	Windthorststraße	 	F	0	0	F	F	0	0,000123215
 17	5189965	5114	secondary	Freiherr-vom-Stein-Platz	K 4	F	50	0	F	F	0	0,00029515
 18	5189967	5114	secondary	Mauritztor	K 4	F	30	0	F	F	0	0,000299915
-19	5189969	5141	service	Promenade	 	B	0	0	F	F	0	0,00080439
 20	5293584	5121	unclassified	Salzstraße	 	B	30	0	F	F	0	0,00057599
 21	5293592	5122	residential	Klosterstraße	 	F	30	0	F	F	0	0,003527856
-22	5293594	5141	service	Promenade	 	B	0	0	F	F	0	7,18945E-05
 23	5293610	5122	residential	Winkelstraße	 	F	30	0	F	F	0	0,001815813
-24	5293614	5141	service	Promenade	 	B	0	0	F	F	0	0,000209193
 25	5608044	5122	residential	Windthorststraße	 	B	50	0	F	F	0	8,71251E-05
 26	5707678	5122	residential	Prinzipalmarkt	 	F	0	0	F	F	0	0,00064295
 27	5707685	5122	residential	Rothenburg	 	B	30	0	F	F	0	0,000456994
@@ -144,9 +141,6 @@ OID_	osm_id	code	fclass	name	ref	oneway	maxspeed	layer	bridge	tunnel	ZuschlagPr	
 143	23129789	5122	residential	Ritterstraße	 	B	0	0	F	F	0	0,000767949
 144	23129790	5141	service	 	 	B	0	0	F	F	0	0,001739648
 145	23129791	5141	service	 	 	B	0	0	F	F	0	0,000454757
-146	23137782	5154	path	 	 	B	0	0	F	F	0	0,001704015
-147	23137789	5154	path	 	 	B	0	0	F	F	0	0,000247164
-148	23137792	5154	path	 	 	B	0	0	F	F	0	0,001279944
 149	24291691	5141	service	Martinistraße	 	B	0	0	F	F	0	0,001545364
 150	24420125	5122	residential	Soester Straße	 	B	0	0	F	F	0	0,001293206
 151	24977498	5141	service	 	 	B	0	0	F	F	0	0,00122675
