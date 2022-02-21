@@ -169,7 +169,6 @@ OID_	osm_id	code	fclass	name	ref	oneway	maxspeed	layer	bridge	tunnel	ZuschlagPr	
 168	28352439	5122	residential	Oststraße	 	F	30	0	F	F	0	0,00088104
 169	28610334	5141	service	Tibusplatz	 	B	0	0	F	F	0	6,72715E-05
 170	28612313	5122	residential	Friedrichstraße	 	B	0	0	F	F	0	7,0394E-05
-171	28612558	5115	tertiary	Bremer Platz	K 9	B	0	0	F	F	0	9,10829E-05
 172	28612594	5122	residential	Hansaplatz	 	B	0	0	F	F	0	0,000473734
 173	28926668	5141	service	 	 	B	0	0	F	F	0	9,97166E-05
 174	28926676	5141	service	 	 	B	0	0	F	F	0	0,000501436
